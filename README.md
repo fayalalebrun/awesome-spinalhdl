@@ -6,6 +6,7 @@ Feel free to open a merge request if you would like to see anything added.
 ## Learning Resources
 * [SpinalHDL Documentation](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html)
 * [Spinal-bootcamp](https://github.com/jijingg/Spinal-bootcamp) - Tutorial based on Jupyter Notebook
+* [SpinalHDL labs](https://github.com/SpinalHDL/SpinalWorkshop) - Labs to learn SpinalHDL
 
 ## CPU
 * [VexRiscV](https://github.com/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation
