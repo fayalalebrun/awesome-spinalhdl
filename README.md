@@ -51,6 +51,7 @@ Feel free to open a merge request if you would like to see anything added.
 ## Networking
 * [SpinalCorundum](https://github.com/brightai-nl/SpinalCorundum) - Components for Corundum Ethernet
 * [BlackwireSpinal](https://github.com/brightai-nl/BlackwireSpinal) - Components implementing WireGuard primitives for Corundum Ethernet
+* [Programmed I/O (PIO) NIC on Enzian](https://github.com/KireinaHoro/enzian-pio-nic) - Network interface card with PCI-E for Enzian platform
 
 ## Signal Processing
 * [SpinalFFT](https://github.com/wswslzp/SpinalFFT) - A FFT hardware generator in SpinalHDL
