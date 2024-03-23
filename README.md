@@ -22,6 +22,7 @@ Feel free to open a merge request if you would like to see anything added.
 * [OPCSH](https://github.com/riktw/OPCSH) - One Page CPU
 * [Subleq Spinalhdl](https://github.com/stopnoanime/subleq-spinalhdl) - Subleq CPU
 * [MicroRV32](https://github.com/agra-uni-bremen/microrv32) - FPGA Suitable RTL Implementation of RISC-V RV32
+* [mr1](https://github.com/tomverbeure/mr1) - Formally verified RISC-V CPU
 
 ## SoC
 * [SaxonSoc](https://github.com/SpinalHDL/SaxonSoc) - SoC based on VexRiscv and ICE40 UP5K
