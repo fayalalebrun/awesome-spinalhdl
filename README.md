@@ -59,3 +59,6 @@ Feel free to open a merge request if you would like to see anything added.
 
 ## Audio
 * [spinal\_synth](https://github.com/lawrie/spinal_synth) - Simple synth
+
+## Graphics
+* [rt](https://github.com/tomverbeure/rt) - A Full Hardware Real-Time Ray-Tracer
