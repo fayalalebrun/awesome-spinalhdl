@@ -57,6 +57,7 @@ Feel free to open a merge request if you would like to see anything added.
 ## Signal Processing
 * [SpinalFFT](https://github.com/wswslzp/SpinalFFT) - A FFT hardware generator in SpinalHDL
 * [FFT\_Radix\_6](https://github.com/QiaoHui7/FFT_Radix_6/tree/main) -  FFT Radix-6 design
+* [Chainsaw](https://github.com/Chainsaw-Team/Chainsaw) - A hardware design library for stream processing operators on Xilinx FPGAs for Arithmetic, DSP, Communication and Crypto applications
 
 ## Audio
 * [spinal\_synth](https://github.com/lawrie/spinal_synth) - Simple synth
