@@ -67,3 +67,7 @@ Feel free to open a merge request if you would like to see anything added.
 
 ## Graphics
 * [rt](https://github.com/tomverbeure/rt) - A Full Hardware Real-Time Ray-Tracer
+
+## Utils
+
+* [SpinalUtils](https://github.com/xueweiwujxw/SpinalUtils) - A collection of utils based on SpinalHDL, including scripts for Xilinx IP cores integration, Vivado flow, and implementations of algorithms such as CRC checksums, M-sequence generator and detector and etc.
